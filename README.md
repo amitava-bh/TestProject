@@ -1,2 +1,2 @@
 # TestProject
-This is a test project for general checkin/checkout of project
+This is a test project for general checkin/checkout
